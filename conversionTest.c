@@ -1,6 +1,7 @@
 #include "conversion.c"
 #include <assert.h>
-#define MARGEN_DE_ERRROR 0.00001
+
+static int MARGEN_DE_ERRROR = 0.00001;
 
 double modulo(double numero);
 int casi_iguales (double numero1, double numero2);
