@@ -8,8 +8,8 @@ Autores de la Resolución:
 	* *Usuario Github:*
 	* *Legajo:*
 * **Giulianini Regueiro, Franco**
-	* *Usuario Github:*
-	* *Legajo:*
+	* *Usuario Github:* francoGiulianini
+	* *Legajo:* 159.439-4
 * **Gorkin, Matías**
 	* *Usuario Github:*
 	* *Legajo:*
