@@ -1,4 +1,3 @@
-#include <stdio.h>
 #include "conversion.h"
 
 double convertirACelsius(double fahr)
