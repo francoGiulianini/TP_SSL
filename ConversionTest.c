@@ -1,8 +1,7 @@
 #include "Conversion.h"
 #include <assert.h>
-#include <stdlib.h>
 
-static const int MARGEN_DE_ERRROR = 0.00001;
+const int MARGEN_DE_ERRROR = 0.00001;
 
 double modulo(double numero);
 int casi_iguales (double numero1, double numero2);
@@ -15,6 +14,7 @@ int main() {
 	assert(casi_iguales(572.00, convertirAFahr(300.00)));
 	assert(casi_iguales(71.11, convertirACelsius(160.00)));
 	assert(casi_iguales(159.98, convertirAFahr(71.10)));
+
 	return EXIT_SUCCESS;
 
 }
