@@ -28,4 +28,4 @@ Conversion.h:
 	$(CC) $(CFLAGS) -c Conversion.h -o conversion.h
 
 clean:
-	rm TablasDeConversion ConversionTest TablasDeConversion.o ConversionTest.o Conversion.h.gch Conversion.o
+	-rm TablasDeConversion ConversionTest TablasDeConversion.o ConversionTest.o Conversion.h.gch Conversion.o
