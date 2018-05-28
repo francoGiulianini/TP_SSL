@@ -17,8 +17,8 @@ Autores de la Resolución:
 	* *Usuario Github:*
 	* *Legajo:*
 * **Laime, Ezequiel**
-	* *Usuario Github:*
-	* *Legajo:*
+	* *Usuario Github:* ezequiel-laime
+	* *Legajo:* 155.618-6
 * **Medina, Maraino**
 	* *Usuario Github:*
 	* *Legajo:*
