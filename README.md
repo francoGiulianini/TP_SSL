@@ -4,9 +4,9 @@ Número de Equipo:
 =====================
 Autores de la Resolución:
 =====================
-* **Blanca, Matías**
-	* *Usuario Github:*
-	* *Legajo:*
+* **Blanca, Ezrá Matías**
+	* *Usuario Github:* matiasblanca
+	* *Legajo:* 155.530-3
 * **Giulianini Regueiro, Franco**
 	* *Usuario Github:* francoGiulianini
 	* *Legajo:* 159.439-4
