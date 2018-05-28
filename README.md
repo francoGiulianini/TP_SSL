@@ -15,7 +15,7 @@ Autores de la Resolución:
 	* *Legajo:* 160.129-5
 * **Huamani Cataño, Natali**
 	* *Usuario Github:* natalihuamani
-	* *Legajo:* 153187-6
+	* *Legajo:* 153.187-6
 * **Laime, Ezequiel**
 	* *Usuario Github:* ezequiel-laime
 	* *Legajo:* 155.618-6
