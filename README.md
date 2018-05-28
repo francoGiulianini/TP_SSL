@@ -21,7 +21,7 @@ Autores de la Resolución:
 	* *Legajo:* 155.618-6
 * **Medina, Maraino**
 	* *Usuario Github:*
-	* *Legajo:*
+	* *Legajo:* 160.028-0
 
 
 Transcripción del Enunciado:
