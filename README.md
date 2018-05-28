@@ -84,6 +84,3 @@ trivial debido a su representación y precisión.*
 • Utilizar const.
 
 • Utilizar for con declaración (C99).
-
-# Hipótesis de Trabajo
-
