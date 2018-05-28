@@ -4,24 +4,24 @@ Número de Equipo:
 =====================
 Autores de la Resolución:
 =====================
-* **Blanca, Matías**
-	* *Usuario Github:*
-	* *Legajo:*
+* **Blanca, Ezrá Matías**
+	* *Usuario Github:* matiasblanca
+	* *Legajo:* 155.530-3
 * **Giulianini Regueiro, Franco**
-	* *Usuario Github:*
-	* *Legajo:*
+	* *Usuario Github:* francoGiulianini
+	* *Legajo:* 159.439-4
 * **Gorkin, Matías**
-	* *Usuario Github:*
-	* *Legajo:*
+	* *Usuario Github:* MatiasGorkin
+	* *Legajo:* 160.129-5
 * **Huamani Cataño, Natali**
-	* *Usuario Github:*
-	* *Legajo:*
+	* *Usuario Github: natalihuamani
+	* *Legajo:153187-6
 * **Laime, Ezequiel**
-	* *Usuario Github:*
-	* *Legajo:*
+	* *Usuario Github:* ezequiel-laime
+	* *Legajo:* 155.618-6
 * **Medina, Maraino**
 	* *Usuario Github:*
-	* *Legajo:*
+	* *Legajo:* 160.028-0
 
 
 Transcripción del Enunciado:
@@ -84,6 +84,3 @@ trivial debido a su representación y precisión.*
 • Utilizar const.
 
 • Utilizar for con declaración (C99).
-
-# Hipótesis de Trabajo
-
