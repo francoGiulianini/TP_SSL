@@ -1,5 +1,6 @@
 CC = gcc
 CFLAGS = -std=c11
+OBJECTS = TablasDeConversion.o ConversionTest.o Conversion.o
 
 .PHONY = all clean run test
 
@@ -24,8 +25,5 @@ Conversion.o: Conversion.h
 TablasDeConversion.o: Conversion.h
 	$(CC) $(CFLAGS) -c TablasDeConversion.c -o TablasDeConversion.o
 
-Conversion.h:
-	$(CC) $(CFLAGS) -c Conversion.h -o conversion.h
-
 clean:
-	-rm TablasDeConversion ConversionTest TablasDeConversion.o ConversionTest.o Conversion.h.gch Conversion.o
+	-rm TablasDeConversion ConversionTest *.o
