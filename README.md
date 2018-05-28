@@ -11,8 +11,8 @@ Autores de la Resolución:
 	* *Usuario Github:* francoGiulianini
 	* *Legajo:* 159.439-4
 * **Gorkin, Matías**
-	* *Usuario Github:*
-	* *Legajo:*
+	* *Usuario Github:* MatiasGorkin
+	* *Legajo:* 160.129-5
 * **Huamani Cataño, Natali**
 	* *Usuario Github: natalihuamani
 	* *Legajo:153187-6
