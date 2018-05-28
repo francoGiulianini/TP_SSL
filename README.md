@@ -20,7 +20,7 @@ Autores de la Resolución:
 	* *Usuario Github:* ezequiel-laime
 	* *Legajo:* 155.618-6
 * **Medina, Maraino**
-	* *Usuario Github:*
+	* *Usuario Github:* mmmedina
 	* *Legajo:* 160.028-0
 
 
