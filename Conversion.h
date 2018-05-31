@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-double convertirACelsius(double fahr);
-double convertirAFahr(double celsius);
+double convertirACelsius(double);
+double convertirAFahr(double);
 
 #endif
